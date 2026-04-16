@@ -20,7 +20,7 @@ The project is implemented in `main.py` and is designed for:
 The project uses two input files:
 
 - `Global_Superstore2.csv`
-- <a href="https://github.com/akashmanur18/E-commerce_Sales_Monitoring">Sales_data_set.csv</a>
+- <a href="https://github.com/akashmanur18/E-commerce_Sales_Monitoring/blob/main/Global_Superstore2.csv">Sales_data_set.csv</a>
 
 - `Global_Superstore2.xlsx`
 - <a href="https://github.com/akashmanur18/E-commerce_Sales_Monitoring/blob/main/Global_Superstore2.xlsx">Sales_data_set.xlsx</a>
@@ -162,7 +162,16 @@ The dashboard helps answer business questions such as:
 ![Dashboard Preview](./outputs/ecommerce_dashboard_visualizations.png)
 
 Screanshots = 
-<img width="1290" height="726" alt="Global_Store6" src="https://github.com/user-attachments/assets/7ad85b5f-2ee2-4108-b71e-fe28d8946ebd" />
+1 = <img width="1285" height="731" alt="Global_Store1" src="https://github.com/user-attachments/assets/ee6a1c4b-10f0-48c5-ac7e-e98879e5c4c0" />
+2 = <img width="1285" height="723" alt="Global_Store2" src="https://github.com/user-attachments/assets/1c1ffda0-dd13-48bc-8255-ff7af4a397da" />
+3 = <img width="1286" height="727" alt="Global_Store3" src="https://github.com/user-attachments/assets/2454f320-9402-49f8-828a-39185a080074" />
+4 = <img width="1290" height="721" alt="Global_Store4" src="https://github.com/user-attachments/assets/1a499a05-d898-4485-911d-a1e5d4f9dbd9" />
+5 = <img width="1290" height="727" alt="Global_Store5" src="https://github.com/user-attachments/assets/86508d50-c144-4353-9944-d50fdcb76178" />
+6 = <img width="1290" height="726" alt="Global_Store6" src="https://github.com/user-attachments/assets/7227de90-d7a8-423e-a381-74e03fc991c3" />
+
+
+
+
 
 
 ## Notes
