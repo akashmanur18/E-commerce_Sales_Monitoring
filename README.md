@@ -20,7 +20,10 @@ The project is implemented in `main.py` and is designed for:
 The project uses two input files:
 
 - `Global_Superstore2.csv`
+- <a href="https://github.com/akashmanur18/E-commerce_Sales_Monitoring">Sales_data_set.csv</a>
+
 - `Global_Superstore2.xlsx`
+- <a href="https://github.com/akashmanur18/E-commerce_Sales_Monitoring/blob/main/Global_Superstore2.xlsx">Sales_data_set.xlsx</a>
 
 Both sources contain Global Superstore sales data. The pipeline reads both files and merges them on the common key `Product Name`.
 
@@ -81,7 +84,7 @@ The default pipeline saves the cleaned dataset into an SQLite database at `outpu
 It also supports optional MySQL integration by setting `USE_MYSQL = True` and providing connection credentials in `main.py`.
 
 ### 7. Visualization dashboard
-
+- <a href="https://github.com/akashmanur18/E-commerce_Sales_Monitoring/blob/main/output/ecommerce_dashboard_visualizations.png">Visualisations</a>
 The project generates a combined dashboard image containing 12 advanced plots. The dashboard is saved as:
 
 - `outputs/ecommerce_dashboard_visualizations.png`
@@ -137,6 +140,7 @@ The pipeline generates these output files:
 
 - `outputs/ecommerce_dashboard_visualizations.png`
 - `outputs/Global_Superstore_Final_Cleaned.csv`
+- <a href="https://github.com/akashmanur18/E-commerce_Sales_Monitoring/blob/main/output/Global_Superstore_Final_Cleaned.csv"> Cleaned_csv_file</a>
 - `outputs/global_superstore.db`
 
 ## Visualizations
@@ -156,6 +160,10 @@ The dashboard helps answer business questions such as:
 ### Preview
 
 ![Dashboard Preview](./outputs/ecommerce_dashboard_visualizations.png)
+
+Screanshots = 
+<img width="1290" height="726" alt="Global_Store6" src="https://github.com/user-attachments/assets/7ad85b5f-2ee2-4108-b71e-fe28d8946ebd" />
+
 
 ## Notes
 
