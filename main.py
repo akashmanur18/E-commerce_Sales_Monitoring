@@ -1,26 +1,3 @@
-﻿"""
-============================================================
-  E-Commerce Sales Monitoring & Performance Analysis
-  Global Superstore Dataset — Full Pipeline (VS Code)
-  Author : Akash Manur | Data Analyst
-============================================================
-
-PIPELINE
-  1.  Read CSV + XLSX files
-  2.  Merge into one unified dataset
-  3.  Data Cleaning & Preprocessing
-  4.  Feature Engineering
-  5.  EDA — Summary Statistics
-  6.  MySQL Integration
-  7.  12 Advanced Visualisations
-  8.  Save all visualisations as one image
-  9.  Save final unified cleaned CSV
-============================================================
-
-INSTALL REQUIREMENTS (run once in terminal):
-  pip install pandas matplotlib seaborn scipy scikit-learn sqlalchemy mysql-connector-python openpyxl xlrd
-"""
-
 # ─────────────────────────────────────────────
 # 0. IMPORTS
 # ─────────────────────────────────────────────
