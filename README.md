@@ -85,7 +85,9 @@ It also supports optional MySQL integration by setting `USE_MYSQL = True` and pr
 
 ### 7. Visualization dashboard
 - <a href="https://github.com/akashmanur18/E-commerce_Sales_Monitoring/blob/main/output/ecommerce_dashboard_visualizations.png">Visualisations</a>
+
 The project generates a combined dashboard image containing 12 advanced plots. The dashboard is saved as:
+<img width="4024" height="6888" alt="ecommerce_dashboard_visualizations" src="https://github.com/user-attachments/assets/cefea092-4260-4921-8951-0418b3d70508" />
 
 - `outputs/ecommerce_dashboard_visualizations.png`
 
